@@ -1,0 +1,16 @@
+Id-producto,nombre del producto,descripcion,stock,foto,precio,publicador del producto,categoria Prod
+1,Laptop,Laptop de alta gama ,10,laptop.jpg,1200,1,13
+2,Celular,Celular ultima gen,25,celular.jpg,800,1,13
+3,Remera,Remera deportiva,50,remera.jpg,20,2,4
+4,Silla,Silla ergonomica,15,silla.jpg,100,4,3
+5,Pelota Futbol,Pelota de futbol,30,pelota.jpg,25,5,4
+6,Libro,Libro de aventura,40,libro.jpg,15,3,5
+7,Juguete,Juguete de niño,20,juguete.jpg,30,5,6
+8,Juguete 2,Juguete de niño 2,15,juguete2.jpg,15,5,6
+9,Cerveza,Cerveza artesanal,60,cerveza.jpg,10,6,11
+10,Galletitas,Galletitas de chocolate,50,galletitas.jpg,5,6,10
+11,Tablet ,tablet 10'',20,tablet.jpg,300,1,13
+12,Escritorio,Escritoriode madera,10,escri.jpg,120,8,14
+13,Mesa ,Mesa nordica,5,mesa.jpg,200,8,14
+14,Silla,silla comedor,16,sillacom.jpg,90,8,14
+15,Vitaminas,Multivitaminico,25,vitaminas.jpg,20,10,8
